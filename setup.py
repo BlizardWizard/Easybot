@@ -7,8 +7,8 @@ with open("README.md", "r") as fh:
 
 setup(
     name='easybot',
-    version='0.0.4',
-    download_url='https://github.com/BlizardWizard/easybot/archive/0.0.4.tar.gz',
+    version='0.0.5',
+    download_url='https://github.com/BlizardWizard/easybot/archive/0.0.5.tar.gz',
     install_requires=[
         'discord'
     ],
@@ -21,8 +21,13 @@ setup(
     license='MIT',
     packages=['easybot'],
     classifiers=[
-        "Programming Language :: Python :: 3",
+        "Development Status :: 3 - Alpha",
+        "Intended Audience :: Developers",
+        "Programming Language :: Python :: 3.6",
         "License :: OSI Approved :: MIT License",
+    ],
+    keywords=[
+        'Discord', 'Python', 'bot', 'easybot', 'easy'
     ],
     zip_safe=False
 )
