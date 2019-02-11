@@ -1,0 +1,8 @@
+README.md
+setup.py
+easybot/__init__.py
+easybot.egg-info/PKG-INFO
+easybot.egg-info/SOURCES.txt
+easybot.egg-info/dependency_links.txt
+easybot.egg-info/not-zip-safe
+easybot.egg-info/top_level.txt
