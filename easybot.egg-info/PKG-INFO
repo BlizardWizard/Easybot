@@ -6,6 +6,7 @@ Home-page: https://github.com/BlizardWizard/Easybot
 Author: Blizard_Wizard
 Author-email: email@robloxcom.me
 License: MIT
+Download-URL: https://github.com/BlizardWizard/easybot/archive/0.0.2.tar.gz
 Description: # Easybot
         Library for easily creating Discord bots with Python
         
