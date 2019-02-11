@@ -7,8 +7,8 @@ with open("README.md", "r") as fh:
 
 setup(
     name='easybot',
-    version='0.0.3',
-    download_url='https://github.com/BlizardWizard/easybot/archive/0.0.3.tar.gz',
+    version='0.0.4',
+    download_url='https://github.com/BlizardWizard/easybot/archive/0.0.4.tar.gz',
     install_requires=[
         'discord'
     ],
