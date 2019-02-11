@@ -1,6 +1,7 @@
 README.md
 setup.py
 easybot/__init__.py
+easybot/easybot.py
 easybot.egg-info/PKG-INFO
 easybot.egg-info/SOURCES.txt
 easybot.egg-info/dependency_links.txt

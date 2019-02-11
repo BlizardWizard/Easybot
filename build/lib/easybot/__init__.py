@@ -1,2 +1,1 @@
-def joke():
-    return "Hello World"
+from easybot.easybot import joke
