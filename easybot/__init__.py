@@ -1,3 +1,1 @@
-from easybot.easybot import joke
-from easybot.easybot import foo
-from easybot.easybot import ping
+from easybot.easybot import Easybot_client

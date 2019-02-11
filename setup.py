@@ -7,10 +7,11 @@ with open("README.md", "r") as fh:
 
 setup(
     name='easybot',
-    version='0.0.5',
-    download_url='https://github.com/BlizardWizard/easybot/archive/0.0.5.tar.gz',
+    version='0.0.6',
+    download_url='https://github.com/BlizardWizard/easybot/archive/0.0.6.tar.gz',
     install_requires=[
-        'discord'
+        'discord',
+        'asyncio'
     ],
     description='Easy Discord bot library with Python',
     long_description=long_description,
