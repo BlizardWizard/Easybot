@@ -1,1 +1,1 @@
-from easybot.easybot import Easybot_client
+from easybot.Client import Client
